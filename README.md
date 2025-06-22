@@ -10,7 +10,7 @@
 4. 開啟Konsole指令台。  
 5. 輸入指令  
 ```
-Chmod +x Gal_fix_helper.sh
+chmox +x /你的檔案位置/Gal_fix_helper.sh
 ```
 6. 把這個".sh"加入到非Steam遊戲，然後再執行。
 
