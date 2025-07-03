@@ -1,7 +1,7 @@
 # 本軟體是方便大家修正視覺小說的動畫錯誤 (主要是給Steam Deck用的)
 80% AI構成(ChatGPT)和20%人工反覆修正。  
 無需任何Python額外插件。
-
+* 已知缺陷: 不支援Proton7或更舊版本啟動的遊戲。
 ## 使用方法:
 1. 先下載 Gal_fix_helper.py 和 Gal_fix_helper.sh  
 2. 下載 [官方](https://github.com/b-fission/vn_winestuff/)
