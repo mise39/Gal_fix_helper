@@ -24,3 +24,35 @@ passwd
 sudo pacman -Sy coreutils
 ```
 Chmod 指令就不會報錯
+
+* * *
+
+# ENGLISH
+# This software is designed to help fix animation errors in visual novels (mainly for Steam Deck).
+80% AI-generated (ChatGPT) and 20% manually refined.
+No additional Python plugins required.  
+* Known issue: Does not support games launched with Proton 7 or older versions.
+
+## Usage Instructions:
+1. Download Gal_fix_helper.py and Gal_fix_helper.sh.  
+2. Download vn_winestuff from the [official source](https://github.com/b-fission/vn_winestuff/)
+  or [the backup source](https://drive.google.com/file/d/1DauMsfuTvxjLMu3B_8W5p_cd2foIkwGl/view?usp=drive_link).
+3. Extract the downloaded files to the same directory (i.e., Gal_fix_helper.py, Gal_fix_helper.sh, and the vn_winestuff-main folder should be in the same directory).  
+4. Open the Konsole terminal.  
+5. Enter the following command:
+```
+chmod +x /your/file/path/Gal_fix_helper.sh
+```
+6. Add the .sh file to non-Steam games, then execute it.
+
+# *Solution for "Chmod not found" error
+In Konsole, first enter:  
+```
+passwd
+```
+Set a password, then enter:  
+```
+sudo pacman -Sy coreutils
+```
+The chmod command should no longer report an error.
+
