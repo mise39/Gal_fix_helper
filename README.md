@@ -27,7 +27,7 @@ Chmod 指令就不會報錯
 
 1.2版本增加字體修正指令，字體教學如下: 
 
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi_webp/FPxgC8YdCX4/mq1.webp?sqp=CKTH1MMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggXihlMA8=&rs=AOn4CLDSlBBE9qE4HHZLlQGzNkQHrm3cwA)](https://www.youtube.com/watch?v=FPxgC8YdCX4) 
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi_webp/FPxgC8YdCX4/mqdefault.webp?v=687538aa&sqp=CLzx1MMG&rs=AOn4CLCYxMACPk1Dw0rDkMJnQ4zJ9OfGQQ)](https://www.youtube.com/watch?v=FPxgC8YdCX4) 
 
 
 [Fonts](https://drive.google.com/file/d/1b1-M2UWKXJ7pBGmbaP6RcGN5zXMTgbPo/view?usp=drive_link)
