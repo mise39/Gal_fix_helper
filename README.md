@@ -1,5 +1,5 @@
 # 本軟體是方便大家修正視覺小說的動畫錯誤 (主要是給Steam Deck用的)
-80% AI構成(ChatGPT)和20%人工反覆修正。  
+60% AI構成(20% ChatGPT + 40% Grok)和40%人工反覆修正。  
 無需任何Python額外插件。
 * 已知缺陷: 不支援Proton7或更舊版本啟動的遊戲。
 ## 使用方法:
@@ -25,11 +25,19 @@ sudo pacman -Sy coreutils
 ```
 Chmod 指令就不會報錯
 
+1.2版本增加字體修正指令，字體教學如下: 
+
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi_webp/FPxgC8YdCX4/mq1.webp?sqp=CKTH1MMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggXihlMA8=&rs=AOn4CLDSlBBE9qE4HHZLlQGzNkQHrm3cwA)](https://www.youtube.com/watch?v=FPxgC8YdCX4) 
+
+
+[Fonts](https://drive.google.com/file/d/1b1-M2UWKXJ7pBGmbaP6RcGN5zXMTgbPo/view?usp=drive_link)
+字體的資料夾fonts放在Gal_fix_helper同一目錄下，文件夾名不能改，但字體可以放你喜歡的字體檔(有可能沒效果)，
+也可以用我準備的字體檔，點擊修正字體鍵就會更新.fonts-wine.conf和路徑指令。
 * * *
 
 # ENGLISH
 # This software is designed to help fix animation errors in visual novels (mainly for Steam Deck).
-80% AI-generated (ChatGPT) and 20% manually refined.
+60% AI-generated (20% ChatGPT + 40% Grok) and 40% manually refined.
 No additional Python plugins required.  
 * Known issue: Does not support games launched with Proton 7 or older versions.
 
